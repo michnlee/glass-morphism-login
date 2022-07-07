@@ -1,2 +1,2 @@
 # glass-morphism-login
-CSS practice - Glass Morphism
+CSS Practice - Glass Morphism
